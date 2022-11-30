@@ -18,7 +18,7 @@ public class TestingWithGit {
         System.out.println("Hello World");
         int i = 0;
         if (i<100) {
-            System.out.println("Hello Jenn Hau");
+            System.out.println("Hello World 2222");
             i++;
         }
         
