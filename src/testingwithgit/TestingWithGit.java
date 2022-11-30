@@ -18,10 +18,10 @@ public class TestingWithGit {
         System.out.println("Hello World");
         int i = 0;
         if (i<100) {
-            System.out.println("Hello");
+            System.out.println("Hello Jenn Hau");
             i++;
         }
-        
-        System.out.println("This file");
     }
+    
+    
 }
