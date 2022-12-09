@@ -46,7 +46,11 @@ public class NewJFrame extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(138, 138, 138)
                 .addComponent(jToggleButton1)
+<<<<<<< Updated upstream
                 .addContainerGap(140, Short.MAX_VALUE))
+=======
+                .addContainerGap(137, Short.MAX_VALUE))
+>>>>>>> Stashed changes
         );
 
         pack();
