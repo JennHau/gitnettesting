@@ -30,6 +30,7 @@ class SignUpLoginManagerService {
                 }
             }
         }
+<<<<<<< HEAD
         
         return false;
     }
@@ -114,5 +115,7 @@ class SignUpLoginManagerService {
         }
         
         return true;
+=======
+>>>>>>> ce65a70f3967e4eaacfa52e066b50168c12ad7f3
     }
 }
