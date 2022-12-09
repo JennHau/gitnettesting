@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author wongj
+ * @author Winson
  */
 class SignUpLoginManagerService {
     protected int SignUp = 1;
