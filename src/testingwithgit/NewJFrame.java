@@ -52,9 +52,17 @@ public class NewJFrame extends javax.swing.JFrame {
             .addGroup(layout.createSequentialGroup()
                 .addGap(138, 138, 138)
                 .addComponent(jToggleButton1)
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+                .addContainerGap(140, Short.MAX_VALUE))
+=======
+                .addContainerGap(137, Short.MAX_VALUE))
+>>>>>>> Stashed changes
+=======
                 .addGap(18, 18, 18)
                 .addComponent(timePicker1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addContainerGap(101, Short.MAX_VALUE))
+>>>>>>> master
         );
 
         pack();
